@@ -10,16 +10,13 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>About Us</h2>
             <Link to='/about'>How it works</Link>
-          </div>
-          <div class='footer-link-items'>
-            <h2>Contact Us</h2>
             <Link to='/about'>Contacts</Link>
             
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Social Media</h2>
+            <h2>Socials</h2>
             <a href ='https://www.linkedin.com/in/nelson-mwanzia-b5914817a/'><i class='fab fa-linkedin' />  LinkedIn </a>
             <a href ='https://web.facebook.com/bonzaicf'><i class='fab fa-facebook-f' />  Facebook </a>
             <a href ='https://github.com/nelsonmutindamwanzia'><i class='fab fa-github' />  GitHub</a>
