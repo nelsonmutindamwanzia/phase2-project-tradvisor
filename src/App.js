@@ -5,7 +5,7 @@ import './App.css';
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Services from "./components/pages/Services";
-import SignUp from "./components/pages/SignUp";
+import AddDestination from "./components/pages/AddDestination";
 import Footer from './components/Footer';
 
 
@@ -18,7 +18,7 @@ function App() {
             <Route path="/" exact component = {Home} ></Route>
             <Route path="/about" exact component = {About} ></Route>
             <Route path="/services" exact component = {Services} ></Route>
-            <Route path="/sign-up" exact component = {SignUp} ></Route>
+            <Route path="/add-destination" exact component = {AddDestination} ></Route>
           </Switch>
           <Footer />
         </Router>
