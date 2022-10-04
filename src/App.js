@@ -15,7 +15,7 @@ function App() {
         <Router>
           <Navbar/>
           <Switch>
-            <Route path="/" exact component = {Home} ></Route>
+            <Route exact path="/"  component = {Home} ></Route>
             <Route path="/about" exact component = {About} ></Route>
             <Route path="/services" exact component = {Services} ></Route>
             <Route path="/add-destination" exact component = {AddDestination} ></Route>
