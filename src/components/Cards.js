@@ -15,7 +15,7 @@ function Cards() {
 const destin = destination.map((d, id)=> {
   return <React.Fragment key={id}>
             <div>
-                <CardItem  name={d.name} src={d.src} text={d.text} label={d.label} path = "/services">
+                <CardItem  name={d.name} src={d.src} text={d.text} label={d.label} path = "/destination-details">
                 </CardItem>
             </div>
       </React.Fragment>
