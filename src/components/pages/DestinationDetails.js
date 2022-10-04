@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import Card from 'react-bootstrap/Card';
 
-export default function Services() {
+export default function DestinationDetails() {
     return (
         <React.Fragment>
             <div className='services'>
