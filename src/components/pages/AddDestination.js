@@ -8,6 +8,7 @@ function AddDestination() {
         label: ""
     });
 
+
     function handleSubmit(event){
         event.preventDefault();
         fetch("http://localhost:3000/destinations", {
