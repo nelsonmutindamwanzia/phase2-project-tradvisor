@@ -1,0 +1,23 @@
+{
+    "destinations": [{
+        "id": 1,
+        "src": "https://intosafaris.com/wp-content/uploads/2020/10/Wild-Swing-at-Camp-Ndunda-Falls-Embu-County-1024x575.jpg?ezimgfmt=ngcb4/notWebP",
+        "text": "Explore this hidden travel destination in Embu County",
+        "label": "Camp Ndunda Falls"
+    }, {
+        "id": 2,
+        "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/e0/a5/caption.jpg?w=1200&h=-1&s=1",
+        "text": "Hike across the famous Ngong Hills and get a chance to enjoy beautiful scenery",
+        "label": "Ngong Hills"
+    }, {
+        "id": 3,
+        "src": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/70/7f/0c.jpg",
+        "text": "Experience a cool breeze and fresh air in the outskirts of Nairobi",
+        "label": "The Karura Forest Reserve"
+    }, {
+        "id": 4,
+        "src": "https://i0.wp.com/www.safari254.com/wp-content/uploads/2014/06/Oloolua-Nature-Trail_Waterfall4.jpg",
+        "text": "Enjoy never-ending relaxation and cool climate in Karen, Nairobi County",
+        "label": "Oloolua Nature Trail"
+    }]
+}
