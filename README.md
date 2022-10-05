@@ -18,7 +18,10 @@ To run this project, one must have either of the following;
     * Run __"json-server --watch db.json --port 8000"__ command in the terminal to get the server running.
     * Run __"npm start"__ command in another terminal window to get the React App running.
 ### Known Bugs
+1. The TraDvisor logo on the footer when clicked does not scroll to the top of the Home Page.
 ### Future Updates
+1. Add Programmatic Navigation to the Add Destination Form that upon clicking the "Add Destination" button, the user will then be redirected to the Home page, in the Card Component and will be shown their newly added destination.
+2. Add a modal to display Destination Details.
 ### Copyright and License (MIT)
 #### Copyright <2022>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "TraDvisor"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
