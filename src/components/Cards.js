@@ -27,11 +27,13 @@ return (
   <>
     {destination.length && (
       <>
-      <h1>Take a look at these incredible destinations: </h1>
+      
       <Card className = "destination-card" body>
+      <h1>Take a look at these incredible destinations: </h1>
         <div>
-          <img className = "img" src={destination[currentIndex].src} alt="destination"/>
+          
           <div className="destination-info">
+          <img src={destination[currentIndex].src} alt="destination"/>
             <div>
               <h4 className="bold-text">{destination[currentIndex].label}</h4>
             </div>
