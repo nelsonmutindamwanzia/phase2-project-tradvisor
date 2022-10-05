@@ -17,10 +17,10 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Socials</h2>
-            <a href ='https://www.linkedin.com/in/nelson-mwanzia-b5914817a/'><i class='fab fa-linkedin' />  LinkedIn </a>
-            <a href ='https://web.facebook.com/bonzaicf'><i class='fab fa-facebook-f' />  Facebook </a>
-            <a href ='https://github.com/nelsonmutindamwanzia'><i class='fab fa-github' />  GitHub</a>
-            <a href ='https://twitter.com/mu_tinda'><i class='fab fa-twitter' />  Twitter</a>
+            <a href ='https://www.linkedin.com/in/nelson-mwanzia-b5914817a/' target="_blank"><i class='fab fa-linkedin' />  LinkedIn </a>
+            <a href ='https://web.facebook.com/bonzaicf' target="_blank"><i class='fab fa-facebook-f' />  Facebook </a>
+            <a href ='https://github.com/nelsonmutindamwanzia' target="_blank"><i class='fab fa-github' />  GitHub</a>
+            <a href ='https://twitter.com/mu_tinda' target="_blank"><i class='fab fa-twitter' />  Twitter</a>
           </div>
           </div>
       </div>
