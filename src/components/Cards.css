@@ -99,6 +99,10 @@
     font-size: 18px;
     line-height: 24px;
   }
+
+  .card-holder{
+    list-style: none;
+  }
   
   @media only screen and (min-width: 1200px) {
     .content__blog__container {

@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import CardItem from './CardItem';
 import './Cards.css';
 
-function Cards() {
+function Cards(id) {
   const [destination, setDestination] = useState ([]);
 
   useEffect(() => {
@@ -12,10 +12,12 @@ function Cards() {
     .catch(console.log);
 }, [setDestination]);
 
+const url = `/destination/destination-details/${id}`;
+
 const destin = destination.map((d, id)=> {
   return <React.Fragment key={id}>
             <div>
-                <CardItem  name={d.name} src={d.src} text={d.text} label={d.label} path = "/destination-details">
+                <CardItem  name={d.name} src={d.src} text={d.text} label={d.label} path = {url} >
                 </CardItem>
             </div>
       </React.Fragment>
@@ -27,7 +29,9 @@ const destin = destination.map((d, id)=> {
         <div className = "cards__container">
             <div className = "cards__wrapper">
                 <ul className = "cards__items"></ul>
+              <div className = "card-holder">
                 {destin}
+              </div>
             </div>
 
         </div>
