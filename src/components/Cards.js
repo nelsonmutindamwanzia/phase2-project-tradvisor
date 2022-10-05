@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react';
-// import CardItem from './CardItem';
 import './Cards.css';
 import { HiChevronLeft, HiChevronRight } from 'react-icons/hi';
 import Card from 'react-bootstrap/Card';
@@ -19,19 +18,13 @@ function handleClick (index){
   setCurrentIndex(index);
 }
 
-// function handleDetails(id){
-
-// }
-
 return (
   <>
     {destination.length && (
-      <>
-      
+      <React.Fragment>
       <Card className = "destination-card" body>
       <h1>Take a look at these incredible destinations: </h1>
         <div>
-          
           <div className="destination-info">
           <img src={destination[currentIndex].src} alt="destination"/>
             <div>
@@ -47,38 +40,11 @@ return (
           <div className="right-btn" onClick={() => handleClick(currentIndex === destination.length - 1 ? 0 : currentIndex + 1)}>
             <HiChevronRight />
           </div>
-          {/* <button onClick = {()=> handleDetails(id)}>View Details</button> */}
         </div>
         </Card>
-      </>
+      </React.Fragment>
     )}
   </>
 )}
-
-// const url = `/destination/destination-details/${id}`;
-
-// const destin = destination.map((d, id)=> {
-//   return <React.Fragment key={id}>
-//             <div>
-//                 <CardItem  name={d.name} src={d.src} text={d.text} label={d.label} path = {url} >
-//                 </CardItem>
-//             </div>
-//       </React.Fragment>
-// });
-
-  // return (
-  //   <div className = "cards">
-  //       <h1>Take a look at these incredible destinations: </h1>
-  //       <div className = "cards__container">
-  //           <div className = "cards__wrapper">
-  //               <ul className = "cards__items">{destin}</ul>
-  //             <div className ="card-holder">
-  //               {/* {destin} */}
-  //             </div>
-  //           </div>
-
-  //       </div>
-  //   </div>
-  // )}
 
 export default Cards;
