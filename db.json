@@ -2,39 +2,45 @@
   "destinations": [
     {
       "id": 1,
-      "src": "https://intosafaris.com/wp-content/uploads/2020/10/Wild-Swing-at-Camp-Ndunda-Falls-Embu-County-1024x575.jpg?ezimgfmt=ngcb4/notWebP",
-      "text": "Explore this hidden travel destination in Embu County",
+      "src": "https://images.unsplash.com/photo-1440186347098-386b7459ad6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "text": "Explore this hidden travel destination in Embu County. This fun-filled centre in Embu County is 140 Kilometers from Nairobi and a 2hours and 30 Minutes drive depending on traffic. Camp Ndunda has numerous Activities such as Wild Swing, The Canopy Walk, The Water Up Thrust and Mud Fun, zip-lining and archery. The charges range between $4 and $10.",
       "label": "Camp Ndunda Falls"
     },
     {
       "id": 2,
-      "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/e0/a5/caption.jpg?w=1200&h=-1&s=1",
-      "text": "Hike across the famous Ngong Hills and get a chance to enjoy beautiful scenery",
+      "src": "https://images.unsplash.com/photo-1511225070737-5af5ac9a690d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "text": "Hike across the famous Ngong Hills and get a chance to enjoy beautiful scenery. It is a perfect spot to do nature walks, hiking, cycling, team building, horse riding, picnics, camping, archery, and zip-lining. The Ngong Hills also provide breathtaking views of Nairobi National Park and the Great Rift Valley. The charges for Residents are: Adults - $2 and Child - $0.5 and for Non-Residents are: $6 and Child - $1.5.",
       "label": "Ngong Hills"
     },
     {
       "id": 3,
-      "src": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/70/7f/0c.jpg",
-      "text": "Experience a cool breeze and fresh air in the outskirts of Nairobi",
+      "src": "https://images.unsplash.com/photo-1501389446297-06c4c50b5ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80%22",
+      "text": "Experience a cool breeze and fresh air in the outskirts of Nairobi. The activities available in Karura Forest include walking, jogging, Bike-riding, Bird-watching, Tennis and Tree planting. The charges for Residents are: Adults - $2 and Child - $1 and for Non-Residents are: $6 and Child - $3.",
       "label": "The Karura Forest Reserve"
     },
     {
       "id": 4,
-      "src": "https://i0.wp.com/www.safari254.com/wp-content/uploads/2014/06/Oloolua-Nature-Trail_Waterfall4.jpg",
-      "text": "Enjoy never-ending relaxation and cool climate in Karen, Nairobi County",
+      "src": "https://images.unsplash.com/photo-1606419704159-ace37c2b177b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "text": "Enjoy never-ending relaxation and cool climate in Karen, Nairobi County. Oloolua Nature Trail features beautiful sceneries of indigenous trees and beautiful chirping birds, a magical cave and a breathtaking waterfall. It is a perfect and budget-friendly destination for hikers, campers and joggers. It is open daily from 9:00 am to  6:00 pm. The charges for Residents are: Adults - $4 and Child - $2 and for Non-Residents are: $6 and Child - $3.",
       "label": "Oloolua Nature Trail"
     },
     {
-      "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/be/e4/a8/gp-karting.jpg?w=1200&h=1200&s=1",
-      "text": "Enjoy F1-esque racing around a real Go-kart track in your chase to get the quickest lap time among your peers",
+      "src": "https://images.unsplash.com/photo-1545823812-a074a1bd5e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "text": "Enjoy F1-esque racing around a real Go-kart track as you endeavour to get the quickest lap time among your peers. This is the oldest and the most affordable place to go. It is the pioneering one in Kenya. It is located off Langata road just after Carnivore grounds. It is easily accessible via public means. Get a matatu/bus from town heading to Langata for Kshs. 50 and alight at the Carnivore stage. You can then have a 5-minutes walk to the place or get a motorbike for another 50 shillings. The charges are as follows: $13 for Adults aged 17 and above, $11 for children aged 13-16 years, $10 for children aged 9-12 years and $9 for children aged 5-8 years.",
       "label": "GP Karting Kenya",
       "id": 5
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lascar_August_7th_Memorial_Park_%284540184755%29.jpg",
-      "text": "After a long day spent in the Nairobi CBD, go to this unique location and relax under the shade in a chilling breeze ",
+      "src": "https://images.unsplash.com/photo-1598421688273-9a044ca12c7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "text": "After a long day spent in the Nairobi CBD, go to this unique location and relax under the shade in a chilling breeze. It offers a serene environment with lush gardens and free Wi-Fi. The charges at the entrance are $0.30 (Ksh. 30) and you are advised to carry cash as Mobile Money is not accepted.",
       "label": "Memorial Park Kenya",
       "id": 6
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1542425967-a2dd69fefbb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+      "text": "Rising from the floor of the Great Rift Valley like a monolith is the extinct volcano of Mount Longonot. A unique feature is the thick forest that lies within the crater of the mountain. The crater rim also provides great scenic views across the beautiful Rift Valley all the way to Lake Naivasha. Major wildlife attractions at Mount Longonot include buffaloes, elands, lion, leopard, bushbucks, common zebra, giraffe and Grant gazelles. The charges for Non-Residents are: Adult - $30 and Child - $20. Residents are charged as follows: Adult - Ksh. 300 and Child - Ksh. 215. When visiting in groups, a convenience fee of Ksh. 1050* is charged.",
+      "label": "Mt Longonot National Park",
+      "id": 7
     }
   ]
 }
