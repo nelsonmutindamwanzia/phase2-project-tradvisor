@@ -8,7 +8,7 @@ function Cards() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
-  fetch("https://tradvisor-app.herokuapp.com/")
+  fetch("http://localhost:3000/destinations")
     .then((response) => response.json())
     .then((data) => setDestination(data))
     .catch(console.log);
