@@ -8,7 +8,7 @@
 ### Technologies/Features 
 1. React JS
 2. CSS 
-3. Heroku
+3. Netlify
 ### Setup
 To run this project, one must have either of the following;
 1. The live Heroku link to this repository available on both the project repository **About** and **at the end of this README file**.
@@ -37,6 +37,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ### Contact
 Email: nmutinda02@gmail.com
-### Live Heroku Page Link
-https://tradvisor-app.herokuapp.com/
+### Live Netlify Page Link
+https://tra-dvisor.netlify.app/
 # TraDvisor By Nelson Mutinda Mwanzia
