@@ -2,6 +2,9 @@
 ## Author: Nelson Mutinda Mwanzia
 ### General Information
 **TraDvisor** Is a travel advisory application created by __Nelson Mutinda Mwanzia__. Whenever it comes to the holiday season, most households find themselves visiting travel advisory websites looking to get a suggestion for a holiday destination that would best suit their needs. This web application makes use of a RESTful API, that will contain information about local holiday destinations that are not commonly found on other travel advisory pages. It is accessible both on mobile devices and desktop or laptop computers. It also has a Navigation Bar incoorporated into it to allow easy navigation through the webpages.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/015ba16a-ed0a-42e9-98f2-256e55269f0c/deploy-status)](https://app.netlify.com/sites/wondrous-taffy-0e191f/deploys)
+
 ### Technologies/Features 
 1. React JS
 2. CSS 
