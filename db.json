@@ -25,7 +25,7 @@
       "label": "Oloolua Nature Trail"
     },
     {
-      "src": "https://images.unsplash.com/photo-1545823812-a074a1bd5e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "src": "https://images.unsplash.com/photo-1610905376670-5e7e0e8a3cfb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "text": "Enjoy F1-esque racing around a real Go-kart track as you endeavour to get the quickest lap time among your peers. This is the oldest and the most affordable place to go. It is the pioneering one in Kenya. It is located off Langata road just after Carnivore grounds. It is easily accessible via public means. Get a matatu/bus from town heading to Langata for Kshs. 50 and alight at the Carnivore stage. You can then have a 5-minutes walk to the place or get a motorbike for another 50 shillings. The charges are as follows: $13 for Adults aged 17 and above, $11 for children aged 13-16 years, $10 for children aged 9-12 years and $9 for children aged 5-8 years.",
       "label": "GP Karting Kenya",
       "id": 5
@@ -41,6 +41,24 @@
       "text": "Rising from the floor of the Great Rift Valley like a monolith is the extinct volcano of Mount Longonot. A unique feature is the thick forest that lies within the crater of the mountain. The crater rim also provides great scenic views across the beautiful Rift Valley all the way to Lake Naivasha. Major wildlife attractions at Mount Longonot include buffaloes, elands, lion, leopard, bushbucks, common zebra, giraffe and Grant gazelles. The charges for Non-Residents are: Adult - $30 and Child - $20. Residents are charged as follows: Adult - Ksh. 300 and Child - Ksh. 215. When visiting in groups, a convenience fee of Ksh. 1050* is charged.",
       "label": "Mt Longonot National Park",
       "id": 7
+    },
+    {
+      "src": "https://plus.unsplash.com/premium_photo-1675805015392-28fd80c551ec?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "text": "Northern Lights in HD image. Nice night life. Would definitely recommend!!",
+      "label": "Northern Lights",
+      "id": 8
+    },
+    {
+      "src": "https://plus.unsplash.com/premium_photo-1675805015392-28fd80c551ec?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "text": "Northern Lights in HD image. Nice night life. Would definitely recommend!!",
+      "label": "Northern Lights",
+      "id": 9
+    },
+    {
+      "src": "https://plus.unsplash.com/premium_photo-1675805015392-28fd80c551ec?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "text": "Northern Lights in HD image. Nice night life. Would definitely recommend!!",
+      "label": "Northern Lights",
+      "id": 10
     }
   ]
 }
